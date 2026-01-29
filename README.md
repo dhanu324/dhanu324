@@ -36,7 +36,6 @@ Engineering student from India 🇮🇳 focused on building efficient, scalable,
 
 ### **Yash Kadekar**
 - GitHub: https://github.com/Yashkadekar
-- Role: Frontend Development, AI/ML Basics, Project Architecture
 - Strengths: UI Development, Web Technologies, AI Concepts
 
 > We work together on collaborative projects combining frontend design with strong backend logic.
